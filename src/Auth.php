@@ -1,4 +1,4 @@
-<?php namespace Daibe\ZoneClient;
+<?php namespace ServTEC\ZoneClient;
 
 /**
 *  Authentication

@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "vfeitoza\\ZoneClient\\": "src/"
+      "ServTEC\\ZoneClient\\": "src/"
     }
   }
 }

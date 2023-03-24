@@ -4,7 +4,7 @@
  * @author Abed Tshilombo
  */
 
-namespace Daibe\ZoneClient;
+namespace ServTEC\ZoneClient;
 
 
 use GuzzleHttp\Client;
