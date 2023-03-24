@@ -1,20 +1,20 @@
 {
-  "name": "daibe/zoneminder-client",
+  "name": "vfeitoza/zoneminder-client",
   "type": "library",
   "description": "Zoneminder API client for PHP",
   "keywords": ["api","api client","php","zoneminder"],
-  "homepage": "https://github.com/daibe",
+  "homepage": "https://github.com/vfeitoza",
   "license": "MIT",
   "authors": [
     {
-      "name": "Abed Tshilombo",
-      "email": "daibe@tutanota.com",
-      "homepage": "http://abedtshilo.com",
+      "name": "Victor Feitoza",
+      "email": "vfeitoza@gmail.com",
+      "homepage": "http://vfeitoza.com.br",
       "role": "Developer"
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "~6.0",
+    "guzzlehttp/guzzle": "^7.0.1",
     "ext-json": "*"
   },
   "require-dev": {
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Daibe\\ZoneClient\\": "src/"
+      "vfeitoza\\ZoneClient\\": "src/"
     }
   }
 }
